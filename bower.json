@@ -1,10 +1,10 @@
 {
-  "name": "mvvm",
+  "name": "kulor-plugin-mvvm",
   "version": "0.0.1",
   "description": "mvvm",
   "main": "index.jade",
   "keywords": [
-    ""
+    "mvvm"
   ],
   "bowerDir": "bower_component",
   "license": "MIT",
