@@ -1,0 +1,20 @@
+{
+  "name": "mvvm",
+  "version": "0.0.1",
+  "description": "mvvm",
+  "main": "index.jade",
+  "keywords": [
+    ""
+  ],
+  "bowerDir": "bower_component",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {},
+  "authors": [
+    "bo.cheng <chen8114@sina.com>"
+  ],
+  "kulor": {
+    "requireName": "Mvvm",
+    "jsFileName": "Mvvm"
+  }
+}
